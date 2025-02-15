@@ -1,0 +1,7 @@
+build/
+/Class.exe
+/CMakePresets.json
+/main.cpp
+/.vscode
+
+
